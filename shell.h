@@ -4,7 +4,7 @@
 #include <stdio.h> /* for printf*/
 #include <unistd.h> /* for fork, execve*/
 #include <stdlib.h>
-#include <string.h> /* for strtok*/
+#include <string.h> /* for strtok.*/
 #include <stddef.h>
 #include <errno.h> /* for errno and perror */
 #include <sys/types.h> /* for type pid */
