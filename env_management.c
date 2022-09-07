@@ -2,7 +2,7 @@
 
 /**
  * env_get_key - gets the value of an environment variable
- * @key: the environment variable of interest
+ * @key: the environment variable of interest...
  * @data: struct of the program's data
  * Return: a pointer to the value of the variable or NULL if it doesn't exist
  */
