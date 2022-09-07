@@ -4,7 +4,7 @@
  * expand_variables - expand variables
  * @data: a pointer to a struct of the program's data...
  *
- * Return: nothing, but sets errno.
+ * Return: nothing, but sets errno...
  */
 void expand_variables(data_of_program *data)
 {
